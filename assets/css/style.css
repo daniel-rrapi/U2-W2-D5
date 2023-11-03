@@ -16,3 +16,30 @@ footer {
 .maturity {
     background-color: #363636;
 }
+@media screen and (min-width:100px) {
+    .paddingContainer {
+        padding-inline: 20px;
+
+    }
+}
+@media screen and (min-width:700px){
+    .paddingContainer {
+        padding-inline: 100px;
+    }
+}
+@media screen and (min-width:900px){
+    .paddingContainer {
+        padding-inline: 200px;
+    }
+}
+@media screen and (min-width:1600px){
+    .paddingContainer {
+        padding-inline: 250px;
+    }
+}
+@media screen and (min-width:1800px){
+    .paddingContainer {
+        padding-inline: 700px;
+    }
+}
+
