@@ -42,4 +42,15 @@ footer {
         padding-inline: 700px;
     }
 }
-
+.navbar-toggler {
+    background-color: #7f7f7f;
+}
+footer i {
+    font-size: 2rem;
+    padding-right: 1rem;
+}
+#nameInput {
+    background-color: #363636;
+    color: white;
+    border: transparent;
+}
