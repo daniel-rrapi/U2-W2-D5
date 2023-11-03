@@ -1,12 +1,18 @@
 .bgMainColor {
-    background-color: #141414;
+    background-color: #1b1b1b;
 }
 body {
     color: white
+}
+footer {
+    color: #7f7f7f
 }
 .fs-desktop {
     font-size: ;
 }
 .btFooter {
     margin-top: 200px;
+}
+.maturity {
+    background-color: #363636;
 }
